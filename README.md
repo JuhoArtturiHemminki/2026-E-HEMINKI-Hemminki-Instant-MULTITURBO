@@ -134,7 +134,7 @@ Where:
 This technology is STRICTLY PROPRIETARY. It is NOT open-source, it is NOT copyleft, and it is NOT bound by any public general public license architectures. All rights regarding the physical prototyping, reverse engineering, digital software simulation, replication, or commercial manufacturing of this architecture are strictly and exclusively reserved by the Author.
 
 ### 6.1 Commercial Use Restrictions
-*   **Unauthorized Prototyping Prohibited:** No automotive manufacturer, corporate entity, academic research institute, or private hobbyist may build, simulate, or test physical or digital models of this Reverse J-Pocket liquid-metal topology without a written, signed commercial license agreement from Juho Artturi Hemminki.
+*   **Unauthorized Prototyping Prohibited:** No automotive manufacturer, corporate entity, academic research institute, or private hobbyist may build or test physical version of this Reverse J-Pocket liquid-metal topology without a written, signed commercial license agreement from Juho Artturi Hemminki.
 *   **Mandatory Revenue Protocols:** Commercial application within electric cars, heavy transport vehicles, electric bikes, or industrial drivetrains requires a custom-negotiated corporate license framework, subject to unit-based manufacturing royalties and gross revenue-sharing matrices.
 
 ### 6.2 Licensing Contact and Business Inquiries
